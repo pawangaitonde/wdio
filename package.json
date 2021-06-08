@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/pawangaitonde/wdio/issues"
   },
-  "homepage": "https://github.com/pawangaitonde/wdio#readme",
+  "homepage": "https://github.com/pawangaitonkeygsde/wdio#readme",
   "dependencies": {
     "webdriverio": "^6.4.0"
   }
